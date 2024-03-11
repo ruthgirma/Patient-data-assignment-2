@@ -5,8 +5,8 @@
 # Reason for visit based on Walk-in   
 ## This graph shows the reason for visit and whether those visits were walk-in or by appointment   
 <img src = "Images/visit based on walk in 2.png" height = 300, width = 500>  
-#Reason for visit based on City  
-##This graph shows the reason for visit based on the city the patients are in  
+# Reason for visit based on City  
+## This graph shows the reason for visit based on the city the patients are in  
 <img src = "Images/Visit based on city.png" height = 300, width = 500>  
 # Total invoice amount based on the reason for the visit   
 ## This graph shows the total invoice amount based on the reason for the visit segmented by the invoice paid  
