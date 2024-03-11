@@ -1,6 +1,6 @@
 # DATA-332-patient_data  
 # Reason for visit grouped by month of the year  
-## This graph shows the reason for visits segmented by month and summarized by count 
+<p> This graph shows the reason for visits segmented by month and summarized by count <p>
 <img src = "Images/Reason for visit by month 2.png" height = 300, width = 500>   
 # Reason for visit based on Walk-in   
 ## This graph shows the reason for visit and whether those visits were walk-in or by appointment   
