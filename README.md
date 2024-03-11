@@ -1,7 +1,7 @@
 # DATA-332-patient_data  
 # Reason fro visit grouped by month of the year  
 ## This graph shows the number of students in certain majors
-<img src="Images/Reason for visit by month 2.png", height = 300, width = 500>
+<img src="Images/Reason for Visit by month 2.png", height = 300, width = 500>
 # Count of students by their birth year  
 ## This graph shows the number of students grouped by their birth year  
 ![Rplot01](https://github.com/ruthgirma/DATA-332-Student-Data/assets/159860827/61c20fec-ed63-45a0-b47c-9457a3c795b7)  
